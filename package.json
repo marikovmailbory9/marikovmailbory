@@ -1,0 +1,32 @@
+{
+  "name": "marikovmailbory",
+  "version": "1.0.0",
+  "description": "marikovmailbory is a Node.js module that provides a collection of tools for fetching and parsing HTML content using various techniques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marikovmailbory9/marikovmailbory"
+  },
+  "dependencies": {
+	  "func-pp06": "1.0.0",
+"potapovvlad": "1.0.0",
+"lenovpaha": "1.0.0",
+"christopherlee-bit": "1.0.0",
+"zheminivan": "1.0.0",
+"morozz": "1.0.0",
+"susanmartin-config": "1.0.0",
+"js-edwardcollins": "1.0.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.11",
+    "node-html-parser": "^4.0.14"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikovmailbory9/marikovmailbory/issues"
+  },
+  "homepage": "https://github.com/marikovmailbory9/marikovmailbory#readme"
+}
